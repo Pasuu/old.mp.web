@@ -1,2 +1,3 @@
-# old.mp.web
-modpack的上一代版本
+# Modpack.siteweb
+
+LICENSE:All rights reserved for all content, unless otherwise explicitly stated.
