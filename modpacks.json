@@ -1692,6 +1692,7 @@
     "link": {
       "bilibili": "10068010",
       "curseforge": "create-stellar",
+      "mcmod":"888",
       "bilibilidwred": "cv25087836",
       "tags": "科技,冒险,任务"
     }
@@ -2230,12 +2231,41 @@
     "link": {
       "bilibili": "406143070",
       "curseforge":"sseaopolis-submerged",
+      "mcmod":"841",
       "bilibilidwred": "cv35691375",
       "tags": "任务,空岛,科技,冒险"
     }
+  },
+  "FTB NeoTech": {
+    "img": "https://feed-the-beast.com/_next/image?url=https%3A%2F%2Fcdn.feed-the-beast.com%2Fblob%2Fc8%2Fc853e9a0534b3e83a2b2dc90fd439db77b8094c5f6b06e92d8e0072212d89bb6.png&w=256&q=75",
+    "i18version": "1.7.0",
+    "gversion": "1.20.4-Neoforge",
+    "i18team": "VM-Team",
+    "isdownload": false,
+    "link": {
+      "bilibili": "2085089798",
+      "ftb": "123-ftb-neotech",
+      "mcmod":"876",
+      "github": "VM-Chinese-translate-group/FTB-Neotech",
+      "VM": "modpacks/neotech/",
+      "tags": "科技,冒险,任务,大型"  
+    }
+  },
+  "Hungry For Tech 2": {
+    "img": "https://media.forgecdn.net/avatars/thumbnails/1061/916/256/256/638594251476755622.png",
+    "i18version": "1.0",
+    "gversion": "1.20.1-Forge",
+    "i18team": "自尊寺(VM-Team)",
+    "isdownload": true,
+    "link": {
+      "bilibili": "585255832",
+      "curseforge": "hungry-for-tech-2",
+      "VM0": true,
+      "baidupan": "1OI533N2IMHssFsoGm5o0lg?pwd=x068",
+      "download0": "vm/Hungry For Tech 2/Hungry+For+Tech+2汉化补丁v1.0.zip",
+      "tags": "科技,任务,空岛"
+    }
   }
-
-
 
 
 
